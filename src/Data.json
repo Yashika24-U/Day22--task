@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Earnings (MONTHLY)",
+        "amount": "$40,000",
+        "iconClass": "fas fa-calendar fa-2x text-gray-300",
+        "borderColor": "border-left-success",
+        "textColor": "text-success"
+    },
+    {
+        "title": "Earnings (Annual)",
+        "amount": "$215,000",
+        "iconClass": "fas fa-dollar-sign fa-2x text-gray-300",
+        "borderColor": "border-left-success",
+        "textColor": "text-success"
+    },
+    {
+        "title": "Tasks",
+        "amount": "50%",
+        "iconClass": "fas fa-clipboard-list fa-2x text-gray-300",
+        "borderColor": "border-left-info",
+        "textColor": "text-info"
+    },
+    {
+        "title": "Pending Requests",
+        "amount": 18,
+        "iconClass": "fas fa-comments fa-2x text-gray-300",
+        "borderColor": "border-left-warning",
+        "textColor": "text-warning"
+    }
+]
